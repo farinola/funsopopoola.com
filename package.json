@@ -26,7 +26,7 @@
     "@babel/eslint-parser": "^7.14.7",
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^17.0.3",
-    "@headlessui/vue": "^1.4.2",
+    "@headlessui/vue": "^1.7.4",
     "@heroicons/vue": "^1.0.5",
     "@nuxt/types": "^2.15.7",
     "@nuxt/typescript-build": "^2.1.0",
